@@ -9,7 +9,7 @@ Github : https://github.com/jiwoo-choi
 
 ### Coin-Karaoke.
 
-Simulate Karaoke Machine using Socket.io. 
+Simulate Karaoke Machine using Socket.io and React.
 * Github (server) : https://github.com/jiwoo-choi/socket-coin-karaoke-server-side
 * Github (front-end) : https://github.com/jiwoo-choi/coin-karaoke
 
@@ -17,6 +17,8 @@ Simulate Karaoke Machine using Socket.io.
 - Back-end: Node
 - Socket: Socket.io
 - Hosting : AWS
+
+
 
 ### R6 Stats Front-end
 
