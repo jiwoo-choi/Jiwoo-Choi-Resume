@@ -35,7 +35,6 @@ a website for a network of an online community of Rainbow six seige.
 ### Coin-Karaoke.
 07/07/20 ~ 07/09/20
 
-
 Simulate Karaoke Machine using Socket.io and React.
 
 <img src="https://github.com/jiwoo-choi/Jiwoo-Choi-Resume/blob/master/coin_example_mobile.PNG" width="300">
@@ -52,6 +51,7 @@ Simulate Karaoke Machine using Socket.io and React.
 
 
 ### R6 Stats Front-end
+04/26/20 ~ 07/07/20
 
 A website for searching Rainbow Six Seige player's stats.
 
@@ -64,6 +64,8 @@ A website for searching Rainbow Six Seige player's stats.
 
 ### Boj Helper
 
+06/12/2020 ~ 06/13/2020
+
 Chrome-extension for imporving usability of the submitting code process in boj.kr(coding online-judge).
 * Github: https://github.com/jiwoo-choi/r6-stats-front-end/
 
@@ -71,6 +73,7 @@ Chrome-extension for imporving usability of the submitting code process in boj.k
 
 
 ### Daily Algo.
+05/22/2020 ~ 05/28/2020
 
 Fetching a random algoritmh question from leetcode.com every day (scheudled time 7AM CST).
 * Github: https://github.com/jiwoo-choi/daily-algo
