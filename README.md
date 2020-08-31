@@ -10,7 +10,7 @@ Github : https://github.com/jiwoo-choi
 ### RxRedux
 07/15/20 ~ current
 
-Framework for a reactive and unidirectional React web application architecture.
+A framework for a reactive and unidirectional React web application architecture.
 
 Inspired by Swift [ReactorKit](https://github.com/ReactorKit/ReactorKit)
 
@@ -26,11 +26,9 @@ a website for a network of an online community of Rainbow six seige.
 <img src="https://github.com/jiwoo-choi/Jiwoo-Choi-Resume/blob/master/community-example1.png" width="400">
 <img src="https://github.com/jiwoo-choi/Jiwoo-Choi-Resume/blob/master/comunity-example.png" width="400">
 
-
 - Front-end: Typescript, React, Semantic UI.
-- Test : Enzyme, Jest
-- Framework : [RxRedux](https://github.com/jiwoo-choi/RxRedux)
-
+- Test : Jest
+- Framework : Mobx
 
 ### Coin-Karaoke.
 07/07/20 ~ 07/09/20
@@ -39,7 +37,6 @@ Simulate Karaoke Machine using Socket.io and React.
 
 <img src="https://github.com/jiwoo-choi/Jiwoo-Choi-Resume/blob/master/coin_example_mobile.PNG" width="300">
 <img src="https://github.com/jiwoo-choi/Jiwoo-Choi-Resume/blob/master/coin_example_web.PNG" width="300">
-
 
 * Github (server) : https://github.com/jiwoo-choi/socket-coin-karaoke-server-side
 * Github (front-end) : https://github.com/jiwoo-choi/coin-karaoke
