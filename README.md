@@ -93,6 +93,12 @@ Java Live Study : Studying Java and Programming.
 * Notion : https://www.notion.so/Java-4432e508deae46ec9f2ac2bdcc89d42f
 * Repository : https://github.com/whiteship/live-study
 
+### Group Study
+* java-live-study : https://github.com/jiwoo-choi/java-live-study
+* cs-online-study : https://github.com/jiwoo-choi/cs-study
+* algorithm-online-study : https://github.com/jiwoo-choi/coding-study
+
+
 ## Skills
 
 - Framework & Libraries: React, React-Native, Python-Flask, ReactiveX.
