@@ -20,11 +20,11 @@ src url : https://github.com/jiwoo-choi/coding-study/tree/main/src
 
 언제든지 깃허브를 넘어서 다양하게 확장 가능한 코드가 될 수 있도록, 코드를 최근에 리팩토링 하였습니다.
 
-<img src="./IMG/coding-study-dashboard.PNG" width="300">
+<img src="./IMG/coding-study-dashboard.png" width="300">
 
-<img src="./IMG/coding-study-issue.PNG" width="300">
+<img src="./IMG/coding-study-issue.png" width="300">
 
-<img src="./IMG/coding-study-search.PNG" width="300">
+<img src="./IMG/coding-study-search.png" width="300">
 
 
 - 사용기술 : Typescript, Github Action, Jest
@@ -70,7 +70,7 @@ Rxjs를 통해서 비동기 UI 이벤트나 I/O 이벤트에 자연스럽게 대
 
 QR코드를 통해 현재 노래방서버를 소켓서버와 연결하여서 모바일에서 노래방 리모컨 서비스를 활용할 수 있습니다.
 
-<img src="./IMG/coin-example.PNG" width="600">
+<img src="./IMG/coin-example.png" width="600">
 
 * Github (server) : https://github.com/jiwoo-choi/socket-coin-karaoke-server-side
 * Github (front-end) : https://github.com/jiwoo-choi/coin-karaoke
