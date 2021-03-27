@@ -8,7 +8,13 @@ Github : https://github.com/jiwoo-choi
 지금까지 진행해온 소규모 프로젝트들을 소개합니다.
 
 ### 코딩스터디 출석 체크 봇.
-- 알고리즘 코딩 스터디의 출결관리를 체크하기 위해 Github Action을 사용하여 만들었습니다.
+- url : https://github.com/jiwoo-choi/coding-study
+- src url : https://github.com/jiwoo-choi/coding-study/tree/main/src
+
+- 알고리즘 코딩 스터디의 출결관리를 체크하기 위해 Github Action을 통해 매일 코드를 실행시키고 + ts를 통해 관리하도록 만들었습니다.
+- 출결 데이터와 참석 데이터가 늘어나고 복잡해짐에 따라서, 편하게 사용할 수 있도록 **검색기와 차트 ** 등 유저 편의성을 신경썼습니다.
+
+
 
 - 사용기술 : Typescript, Github Action, Jest
 
