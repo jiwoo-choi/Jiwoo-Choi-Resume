@@ -7,8 +7,15 @@ Github : https://github.com/jiwoo-choi
 
 ## Projects
 
+## Coding-Study Attendance Check bot
+
+- coding study utiliy tools.
+
+
+
+
 ### RxRedux
-07/15/20 ~ current
+07/15/20 ~ 
 
 A framework for a reactive and unidirectional React web application architecture.
 
