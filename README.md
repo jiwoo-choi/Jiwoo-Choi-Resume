@@ -122,6 +122,7 @@ UI/UX 코스 리액트, 리액트 네이티브 프로젝트
 ### 온라인 스터디
 
 - Java 라이브 스터디 (종료)
+
 자바의 기초에 해당하는 내용들을 많은 개발자들과 이야기를 나눌 수 있는 스터디.
 
 * 개인 내용 정리 : https://www.notion.so/Java-4432e508deae46ec9f2ac2bdcc89d42f
@@ -129,12 +130,14 @@ UI/UX 코스 리액트, 리액트 네이티브 프로젝트
 
 
 - 알고리즘 스터디 (1월부터 운영중)
+- 
 매일 알고리즘 한개씩을 풀어 제출하고, 어떻게 풀었는지 상세 설명.
 
 * Algorithm-online-study : https://github.com/jiwoo-choi/coding-study
  
  
 - CS 온라인 스터디 (1월부터 운영중)
+
 CS관련 지식들을 각자 공부하고 관련 주제에 대해서 배운점 토론 및 면접 준비.
 
 * CS online-study : https://github.com/jiwoo-choi/cs-study
@@ -143,7 +146,8 @@ CS관련 지식들을 각자 공부하고 관련 주제에 대해서 배운점 �
 ### 개별 스터디
 
 - 핸즈온 프로젝트 (3월부터 시작)
-여러가지 주제들을 생각해보고 디자인패턴, TDD, 이펙티브 자바, 구현 등 다양한 코딩프로젝트를 직접 해보면서 배웁니다.
+
+디자인패턴, TDD, 이펙티브 자바, 구현 등 다양한 코딩프로젝트를 직접 해보면서 배웁니다.
 
 - Hands on projects : https://github.com/jiwoo-choi/hands-on-coding-project
 
