@@ -1,17 +1,20 @@
 # Jiwoo-Choi-Resume
 
-## Link 
-Github : https://github.com/jiwoo-choi
+### 전체 Repositories
+Github : https://github.com/jiwoo-choi?tab=repositories
 
 ## Projects
 지금까지 진행해온 소규모 프로젝트들을 소개합니다.
 
 ### 코딩스터디 출석 체크 봇.
-21/01/23~ 현재까지 관리중.
+| 구분| 내용|
+|--|--|
+|기간| 21/01/23~ 현재까지 관리 중 |
+|참여인원| 1명|
 
-url : https://github.com/jiwoo-choi/coding-study
+코딩스터디 url : https://github.com/jiwoo-choi/coding-study
 
-src url : https://github.com/jiwoo-choi/coding-study/tree/main/src
+코드 src url : https://github.com/jiwoo-choi/coding-study/tree/main/src
 
 
 알고리즘 코딩 스터디의 출결관리를 체크하기 위해 Github Action을 통해 매일 이슈 생성 및 출결 관리 + 전체적인 데이터의 흐름을 typescript로 관리하도록 만들었습니다.
@@ -26,12 +29,13 @@ src url : https://github.com/jiwoo-choi/coding-study/tree/main/src
 
 <img src="./IMG/coding-study-search.png" width="300">
 
-
 - 사용기술 : Typescript, Github Action, Jest
 
-
 ### RxRedux
-20/07/15 ~ 20/07/29 
+| 구분| 내용|
+|--|--|
+|기간| 20/07/15 ~ 20/07/29 (약 2주) |
+|참여인원| 1명|
 
 url: https://github.com/jiwoo-choi/RxRedux
 
@@ -47,9 +51,13 @@ Rxjs를 통해서 비동기 UI 이벤트나 I/O 이벤트에 자연스럽게 대
 
 
 ### R6 Community Front-end
-07/15/20 ~ 프로젝트 중단.
+| 구분| 내용|
+|--|--|
+|기간|20/07/15 ~ 프로젝트 중단 |
+|참여인원| 2명|
+|역할| 프론트엔드 |
 
-레인보우 식스 시즈 게임 관련 커뮤니티 사이트입니다. 
+레인보우 식스 시즈 게임 관련 커뮤니티 게시판 사이트입니다. 
 
 기존 레인보우 식스 시즈 전적 검색 사이트와 연장선으로 제작한 프로젝트입니다.
 
@@ -64,7 +72,10 @@ Rxjs를 통해서 비동기 UI 이벤트나 I/O 이벤트에 자연스럽게 대
 
 
 ### Coin-Karaoke.
-07/07/20 ~ 07/09/20
+| 구분| 내용|
+|--|--|
+|기간|20/07/20~ 20/07/09 (약 2일간) |
+|참여인원|1명|
 
 유튜브 노래방 기능을 활용해 웹으로 노래방을 즐기는 서비스.
 
@@ -82,7 +93,11 @@ QR코드를 통해 현재 노래방서버를 소켓서버와 연결하여서 모
 
 
 ### R6 Stats Front-end
-04/26/20 ~ 07/07/20
+| 구분| 내용|
+|--|--|
+|기간| 20/04/26 ~ 20/07/07 (약 2달) |
+|참여인원| 2명|
+|역할| 프론트엔드|
 
 레인보우 식스 전적 검색 웹 사이트입니다.
 
@@ -93,36 +108,37 @@ QR코드를 통해 현재 노래방서버를 소켓서버와 연결하여서 모
 - Back-end (목업서버용): Python3 Flask.
 
 
-### Building React & React Native.
+### Building React & React Native
 
-CS639 React Projects.
-Using React-Native & React.
+UI/UX 코스 리액트, 리액트 네이티브 프로젝트 
 
 * Github : https://github.com/jiwoo-choi/CS639-React
 * Github : https://github.com/jiwoo-choi/CS639-React-Native-Project
 
-### 그외 다양한 프로젝트들.. (repositories)
-Github : https://github.com/jiwoo-choi?tab=repositories
 
 ## 📕 스터디
-다양한 역량을 기르기 위해 스터디를 활용하고 있습니다.
+다양한 역량을 기르기 위해 스터디를 활발하게 참여하고 있습니다.
 
 ### 온라인 스터디
+
 - Java 라이브 스터디 (종료)
 자바의 기초에 해당하는 내용들을 많은 개발자들과 이야기를 나눌 수 있는 스터디.
 
 * 개인 내용 정리 : https://www.notion.so/Java-4432e508deae46ec9f2ac2bdcc89d42f
 * 스터디 리포지토리 : https://github.com/whiteship/live-study
 
+
 - 알고리즘 스터디 (1월부터 운영중)
 매일 알고리즘 한개씩을 풀어 제출하고, 어떻게 풀었는지 상세 설명.
 
 * Algorithm-online-study : https://github.com/jiwoo-choi/coding-study
  
+ 
 - CS 온라인 스터디 (1월부터 운영중)
 CS관련 지식들을 각자 공부하고 관련 주제에 대해서 배운점 토론 및 면접 준비.
 
 * CS online-study : https://github.com/jiwoo-choi/cs-study
+
 
 ### 개별 스터디
 
@@ -134,5 +150,6 @@ CS관련 지식들을 각자 공부하고 관련 주제에 대해서 배운점 �
 
 ## Skills
 
-- Framework & Libraries: react, vue.js, 리덕스, mobx, rxjs, spring.
+- Framework & Libraries: react, vue.js, redux, mobx, rxjs, spring.
 - Programming Language : java, javscript, typescript.
+- 그 외 : git, babel, webpack, storybook.
