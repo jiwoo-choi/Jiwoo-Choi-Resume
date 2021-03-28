@@ -104,7 +104,7 @@ QR코드를 통해 현재 노래방서버를 소켓서버와 연결하여서 모
 * Website : http://r6-search.me/
 * Github: https://github.com/jiwoo-choi/r6-stats-front-end/
 
-- Front-end: React,Typescript, RxJs, Storybook, Jest.
+- Front-end: React,Typescript, RxJs, Jest.
 - Back-end (목업서버용): Python3 Flask.
 
 
