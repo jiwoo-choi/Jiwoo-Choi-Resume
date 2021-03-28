@@ -119,18 +119,6 @@ UI/UX 코스 리액트, 리액트 네이티브 프로젝트
 ## 📕 스터디
 다양한 역량을 기르기 위해 스터디를 활발하게 참여하고 있습니다.
 
-### 온라인 스터디
-
-- Java 라이브 스터디 (종료)
-
-자바의 기초에 해당하는 내용들을 많은 개발자들과 이야기를 나눌 수 있는 스터디.
-
-* 개인 내용 정리 : https://www.notion.so/Java-4432e508deae46ec9f2ac2bdcc89d42f
-* 스터디 리포지토리 : https://github.com/whiteship/live-study
-
-
-### 개별 스터디
-
 | 구분| 내용|기간|링크|
 |--|--|--|--|
 |핸즈온프로젝트| 다양한 코딩프로젝트를 직접 해보면서 배웁니다| 2021.03 ~ |https://github.com/jiwoo-choi/hands-on-coding-project|
