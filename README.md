@@ -129,28 +129,14 @@ UI/UX 코스 리액트, 리액트 네이티브 프로젝트
 * 스터디 리포지토리 : https://github.com/whiteship/live-study
 
 
-- 알고리즘 스터디 (1월부터 운영중)
-- 
-매일 알고리즘 한개씩을 풀어 제출하고, 어떻게 풀었는지 상세 설명.
-
-* Algorithm-online-study : https://github.com/jiwoo-choi/coding-study
- 
- 
-- CS 온라인 스터디 (1월부터 운영중)
-
-CS관련 지식들을 각자 공부하고 관련 주제에 대해서 배운점 토론 및 면접 준비.
-
-* CS online-study : https://github.com/jiwoo-choi/cs-study
-
-
 ### 개별 스터디
 
-- 핸즈온 프로젝트 (3월부터 시작)
-
-디자인패턴, TDD, 이펙티브 자바, 구현 등 다양한 코딩프로젝트를 직접 해보면서 배웁니다.
-
-- Hands on projects : https://github.com/jiwoo-choi/hands-on-coding-project
-
+| 구분| 내용|기간|링크|
+|--|--|--|--|
+|핸즈온프로젝트| 다양한 코딩프로젝트를 직접 해보면서 배웁니다| 2021.03 ~ |https://github.com/jiwoo-choi/hands-on-coding-project|
+|Java 온라인 스터디| Java 기초 내용들을 매주 학습하고, 다양한 레벨의 개발자들과 공유. | 2020/11 ~ 2021/03 | https://github.com/whiteship/live-study|
+|알고리즘 코딩 스터디| 매일매일 알고리즘을 풀고 풀이를 올리는 스터디. | 2021/01 ~  | https://github.com/jiwoo-choi/coding-study / [개인 스터디 정리 내용](https://www.notion.so/Java-4432e508deae46ec9f2ac2bdcc89d42f)|
+|CS 스터디| 매주 동일한 CS 관련 주제를 공부하고 발표, 문제풀이를 해보는 스터디 | 2021/01 ~  | https://github.com/jiwoo-choi/cs-study|
 
 ## Skills
 
