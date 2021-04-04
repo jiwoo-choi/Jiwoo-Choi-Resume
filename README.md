@@ -110,12 +110,15 @@ QR코드를 통해 현재 노래방서버를 소켓서버와 연결하여서 모
 
 ### Building React & React Native
 
-UI/UX course에서 수행했던 프로토타입 만들기 프로젝트입니다.
-React프로젝트는 수강신청 추천서비스 만들기.
-
-
+UI/UX course에서 수행했던 프로토타입 만들기 개인 프로젝트입니다.
+- React 프로젝트는 수강신청 추천서비스 만들기 프로토타입 만들기 입니다.
+- React Native 프로젝트는 건강관리앱 프로토타입 만들기 입니다.
 
 * Github : https://github.com/jiwoo-choi/CS639-React
+<img src="./IMG/cs639-react-recommender-progress.png" width="600">
+<img src="./IMG/cs639-react-recommender-result.png" width="600">
+<img src="./IMG/cs693-react-search.png" width="600">
+
 * Github : https://github.com/jiwoo-choi/CS639-React-Native-Project
 
 <img src="https://github.com/wisc-hci-curriculum/cs639-react-native-3-jiwoo-choi/raw/master/screenshot/weeklyreport.png" width="400">
