@@ -3,6 +3,9 @@
 ### 전체 Repositories
 Github : https://github.com/jiwoo-choi?tab=repositories
 
+### blog
+Tistory : https://jiwoochoi.tistory.com/
+
 ## Projects
 지금까지 진행해온 소규모 프로젝트들을 소개합니다.
 
