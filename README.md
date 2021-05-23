@@ -3,11 +3,11 @@
 ### 전체 Repositories
 Github : https://github.com/jiwoo-choi?tab=repositories
 
-### blog
-Tistory : https://jiwoochoi.tistory.com/
-
 ## Projects
 지금까지 진행해온 소규모 프로젝트들을 소개합니다.
+
+### HappyHouse
+
 
 ### 코딩스터디 출석 체크 봇.
 | 구분| 내용|
@@ -114,7 +114,7 @@ QR코드를 통해 현재 노래방서버를 소켓서버와 연결하여서 모
 ### Building React & React Native
 
 UI/UX course에서 수행했던 프로토타입 만들기 개인 프로젝트입니다.
-- React 프로젝트는 수강신청 추천서비스 만들기 프로토타입 만들기 입니다.
+- React 프로젝트는 수강신청 추천서비스 만들기 프로토타입 만들기 입니다. Cos 유사도 공식을 활용하여 추천서비스를 구성하였습니다.
 - React Native 프로젝트는 건강관리앱 프로토타입 만들기 입니다.
 
 * Github : https://github.com/jiwoo-choi/CS639-React
