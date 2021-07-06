@@ -6,13 +6,22 @@ Github : https://github.com/jiwoo-choi?tab=repositories
 ## Projects
 지금까지 진행해온 소규모 프로젝트들을 소개합니다.
 
-### HappyHouse
+### Checklist
+| 구분| 내용|
+|--|--|
+|기간| 21/05/20 ~ 21/05/27 |
+|참여인원| 2명|
+|역할| 기획, 디자인, 프론트엔드 개발 |
 
+주택 구입에 관련된 API들을 정리하여 체크 리스트 형식으로 데이터를 보여주고 SSAFY 1학기 프로젝트입니다.
+
+
+- 사용기술 : Vue.js
 
 ### 코딩스터디 출석 체크 봇.
 | 구분| 내용|
 |--|--|
-|기간| 21/01/23~ 현재까지 관리 중 |
+|기간| 21/01/23~ 21/03/31 |
 |참여인원| 1명|
 
 코딩스터디 url : https://github.com/jiwoo-choi/coding-study
@@ -23,8 +32,6 @@ Github : https://github.com/jiwoo-choi?tab=repositories
 알고리즘 코딩 스터디의 출결관리를 체크하기 위해 Github Action을 통해 매일 이슈 생성 및 출결 관리 + 전체적인 데이터의 흐름을 typescript로 관리하도록 만들었습니다.
 
 출결 데이터와 참석 데이터가 늘어나고 복잡해짐에 따라서, 편하게 사용할 수 있도록 **검색기와 차트** 등 점차 유저 편의성을 신경썼습니다.
-
-언제든지 깃허브플랫폼의 종 넘어서 다양하게 확장 가능한 코드가 될 수 있도록, 코드를 최근에 리팩토링 하였습니다.
 
 <img src="./IMG/coding-study-dashboard.png" width="300">
 
