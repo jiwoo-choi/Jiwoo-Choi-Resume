@@ -15,6 +15,7 @@ Github : https://github.com/jiwoo-choi?tab=repositories
 
 주택 구입에 관련된 API들을 정리하여 체크 리스트 형식으로 데이터를 보여주고 SSAFY 1학기 프로젝트입니다.
 <img width="500" alt="스크린샷 2021-07-06 오전 9 06 12" src="https://user-images.githubusercontent.com/18345994/124525228-6ab9dd80-de39-11eb-9361-90577ee581bd.png">
+<img width="500" alt="스크린샷 2021-07-06 오전 9 11 43" src="https://user-images.githubusercontent.com/18345994/124525411-3266cf00-de3a-11eb-8252-6c90b00b0f02.png">
 <img width="500" alt="스크린샷 2021-07-06 오전 9 05 07" src="https://user-images.githubusercontent.com/18345994/124525184-45c56a80-de39-11eb-8308-d161ae41a38d.png">
 <img width="500" alt="스크린샷 2021-07-06 오전 9 07 50" src="https://user-images.githubusercontent.com/18345994/124525277-a5bc1100-de39-11eb-984d-a2c4e663752d.png">
 
