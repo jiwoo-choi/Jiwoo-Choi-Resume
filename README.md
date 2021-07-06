@@ -6,7 +6,7 @@ Github : https://github.com/jiwoo-choi?tab=repositories
 ## Projects
 지금까지 진행해온 소규모 프로젝트들을 소개합니다.
 
-### Checklist
+### ✨Checklist
 | 구분| 내용|
 |--|--|
 |기간| 21/05/20 ~ 21/05/27 |
@@ -22,7 +22,7 @@ Github : https://github.com/jiwoo-choi?tab=repositories
 
 - 사용기술 : Vue.js
 
-### 코딩스터디 출석 체크 봇.
+### ✨코딩스터디 출석 체크 봇.
 | 구분| 내용|
 |--|--|
 |기간| 21/01/23~ 21/03/31 |
@@ -45,7 +45,7 @@ Github : https://github.com/jiwoo-choi?tab=repositories
 
 - 사용기술 : Typescript, Github Action, Jest
 
-### RxRedux
+### ✨RxRedux
 | 구분| 내용|
 |--|--|
 |기간| 20/07/15 ~ 20/07/29 (약 2주) |
@@ -64,7 +64,7 @@ Rxjs를 통해서 비동기 UI 이벤트나 I/O 이벤트에 자연스럽게 대
 - 사용기술 : Rxjs, Typescript
 
 
-### R6 Community Front-end
+### ✨R6 Community Front-end
 | 구분| 내용|
 |--|--|
 |기간|20/07/15 ~ 프로젝트 중단 |
@@ -85,7 +85,7 @@ Rxjs를 통해서 비동기 UI 이벤트나 I/O 이벤트에 자연스럽게 대
 - UI : Semantic UI React.
 
 
-### Coin-Karaoke.
+### ✨Coin-Karaoke.
 | 구분| 내용|
 |--|--|
 |기간|20/07/20~ 20/07/09 (약 2일간) |
@@ -106,7 +106,7 @@ QR코드를 통해 현재 노래방서버를 소켓서버와 연결하여서 모
 - 호스팅 : AWS
 
 
-### R6 Stats Front-end
+### ✨R6 Stats Front-end
 | 구분| 내용|
 |--|--|
 |기간| 20/04/26 ~ 20/07/07 (약 2달) |
@@ -122,7 +122,7 @@ QR코드를 통해 현재 노래방서버를 소켓서버와 연결하여서 모
 - Back-end (목업서버용): Python3 Flask.
 
 
-### Building React & React Native
+### ✨Building UI/UX (React & React Native Projects)
 
 UI/UX course에서 수행했던 프로토타입 만들기 개인 프로젝트입니다.
 - React 프로젝트는 수강신청 추천서비스 만들기 프로토타입 만들기 입니다. Cos 유사도 공식을 활용하여 추천서비스를 구성하였습니다.
